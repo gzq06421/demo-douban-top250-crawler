@@ -26,3 +26,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple --tr
 
 python main.py
 
+![运行截图](./代码运行.png)
+![运行截图](./结果示例.png)
+
+
